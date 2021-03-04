@@ -13,3 +13,5 @@ Vestibulum lacinia urna a orci laoreet hendrerit. Curabitur pellentesque ligula 
 
 Сгенерировано 5 абзацей, 420 слов, 2848 байтов Lorem Ipsum
 The End
+
+A quote: The Art of Quoting
